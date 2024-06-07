@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2005shivam" alt="2005shivam" /></a> </p>
 
-- 🌱 I’m currently learning **Python,c**
+- 🌱 I’m currently learning Html,css,c**
 
 - 📫 How to reach me **shivampratap826@gmail.co**
 
